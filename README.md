@@ -1,6 +1,6 @@
 # Automatic Watering Plant System Project
-2006577574 Rain Elgratio Sion Hasian Lumban Gaol
-2006529543 Diva Hana Prilia
+
+
 
 ## Introduction
 
